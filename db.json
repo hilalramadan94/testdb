@@ -1,0 +1,79 @@
+{
+   "Products":[
+      {
+         "id":"1",
+         "name":"Indomie Ayam Bawang",
+         "price":"2500"
+      },
+      {
+         "id":"2",
+         "name":"Indomie Goreng",
+         "price":"2700"
+      },
+      {
+         "id":"3",
+         "name":"Pop Ice",
+         "price":"1000"
+      },
+      {
+         "id":"4",
+         "name":"Kopi Kapal Api",
+         "price":"1000"
+      },
+      {
+         "id":"5",
+         "name":"Kopi ABC",
+         "price":"1000"
+      },
+      {
+         "id":"6",
+         "name":"Energen",
+         "price":"1500"
+      },
+      {
+         "id":"7",
+         "name":"Nutrisari",
+         "price":"1500"
+      },
+      {
+         "id":"8",
+         "name":"Indomilk",
+         "price":"1500"
+      },
+      {
+         "id":"9",
+         "name":"Kerupuk",
+         "price":"1000"
+      },
+      {
+         "id":"10",
+         "name":"Bengbeng",
+         "price":"1000"
+      },
+      {
+         "id":"11",
+         "name":"Royko",
+         "price":"1000"
+      },
+      {
+         "id":"12",
+         "name":"Sasa",
+         "price":"1000"
+      },
+      {
+         "id":"13",
+         "name":"Lifeboy",
+         "price":"3000"
+      },
+      {
+         "id":"14",
+         "name":"Pepsodent",
+         "price":"5000"
+      },
+      {
+         "id":"15",
+         "name":"Sunsilk",
+         "price":"1000"
+      }
+   ]
+}
